@@ -153,7 +153,7 @@
 		"tests:cov-rep": "npm run test:cov-rep"
 	},
 	"dependencies": {
-		"@kubernetes/client-node": "^0.16.3",
+		"@kubernetes/client-node": "^0.22.3",
 		"@types/lodash": "^4.14.182",
 		"@types/shelljs": "^0.8.11",
 		"fs-extra": "^10.0.1",
